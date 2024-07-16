@@ -1,0 +1,10 @@
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.csproj.AssemblyReference.cache
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.Form1.resources
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.Properties.Resources.resources
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.csproj.GenerateResource.cache
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.csproj.CoreCompileInputs.cache
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\bin\Debug\guia02_ejercicio1.exe.config
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\bin\Debug\guia02_ejercicio1.exe
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\bin\Debug\guia02_ejercicio1.pdb
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.exe
+C:\Users\Jupiter\Desktop\Kelvin\C# GUIAS Y SOLUCIONES\REPOSITORIO GRUPAL\DSP404_G02L_E0\GA181200_guia02\guia02_ejercicio1\obj\Debug\guia02_ejercicio1.pdb
